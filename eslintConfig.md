@@ -258,4 +258,4 @@ To see all of the available options and their explanations, you can refer to the
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
     }
 
-**his allows JSX to be used in .js files. You can also enable, disable or modify other ESLint rules within the rules section of your .eslintrc.json file.**
+his allows JSX to be used in .js files. You can also enable, disable or modify other ESLint rules within the rules section of your .**eslintrc.json** file.
